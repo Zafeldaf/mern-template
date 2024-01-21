@@ -1,0 +1,14 @@
+{
+    "name": "mern-template",
+    "version": "1.0.0",
+    "author": "Zohaib Arsalan",
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Zafeldaf/mern-template"
+    },
+    "description": "This is a template for the MERN stack which includes already set up React (with Vite), MongoDB connection, JWT Authentication (access and refresh tokens), axios interception, basic routes (register, login, logout, forgot-password, auth codes), and node js mailer  ",
+    "main": "index.js",
+    "scripts": {},
+    "license": "MIT"
+}
